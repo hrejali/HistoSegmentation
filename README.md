@@ -1,1 +1,1 @@
-# HistoSegmentation
+# Histology Segmentation
